@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.exe
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.deps.json
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.runtimeconfig.json
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.dll
+C:\Users\017586631\source\repos\PulaSapo\bin\Debug\netcoreapp3.1\PulaSapo.pdb
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.AssemblyInfo.cs
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.dll
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.pdb
+C:\Users\017586631\source\repos\PulaSapo\obj\Debug\netcoreapp3.1\PulaSapo.genruntimeconfig.cache
